@@ -1,0 +1,2 @@
+# .VIMRC
+Vim settings collect.
